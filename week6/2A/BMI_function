@@ -1,0 +1,7 @@
+float compute_BMI(float weight, float height)
+{
+    return weight/(height*height);
+}
+float w = 70.0;
+float h = 1.78;
+float bmi = compute_BMI(w,h);
