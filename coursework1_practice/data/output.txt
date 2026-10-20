@@ -1,0 +1,4 @@
+data file: ecg1.txt
+min/mean/max RR interval: 806 952.222 1076
+RMSSD: 109.535
+stress level: low
